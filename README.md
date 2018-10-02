@@ -56,8 +56,8 @@ In this Writeup, I will consider the [Project Rubric Points](https://review.udac
 
 ## Project Code
 Here are the Links To:
-1. [My Project @ GitHub](https://github.com/nmuthukumar/UDACITY_SDCarEngg-ND--P1--Prj02-TrafficSigns)
-2. [The Project Code @ GitHub -> Ipython NoteBook](https://github.com/nmuthukumar/UDACITY_SDCarEngg-ND--P1--Prj02-TrafficSigns/blob/master/Traffic_Sign_Classifier.ipynb)
+1. [**My Project @ GitHub**](https://github.com/nmuthukumar/UDACITY_SDCarEngg-ND--P1--Prj02-TrafficSigns)
+2. [**The Project Code @ GitHub -> Ipython NoteBook**](https://github.com/nmuthukumar/UDACITY_SDCarEngg-ND--P1--Prj02-TrafficSigns/blob/master/CarND-Traffic-Sign-Classifier/Traffic_Sign_Classifier.ipynb)
 
 
 ## 1 Data Sets Exploration - Explore, Summarize and Visualize the Data Sets:
